@@ -29,6 +29,3 @@ The dataset is loaded directly using the **keras.datasets.mnist.load_data()** fu
 3. **Install required dependencies:**
    ```bash
    pip install -r requirements.txt
-4. **Run the application:**
-   ```bash
-   python app.py 
